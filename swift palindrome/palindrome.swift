@@ -4,10 +4,10 @@
 * Example palindrome program
 *
 * Make sure the file is executable on your machine ->
-* chmod +x nazgul.swift
+* chmod +x palindrome.swift
 *
 * Run from command line with 1 argument ->
-* ./nazgul.swift pal.txt
+* ./palindrome.swift pal.txt
 */
 
 import Foundation

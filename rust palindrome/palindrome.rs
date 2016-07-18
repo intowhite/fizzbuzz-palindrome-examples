@@ -2,10 +2,10 @@
 // Example palindrome program
 
 // Compile first ->
-// rustc nazgul.rs
+// rustc palindrome.rs
 
 // Run from command line with 1 argument ->
-// ./nazgul pal.txt
+// ./palindrome pal.txt
 //-
 
 use std::env;

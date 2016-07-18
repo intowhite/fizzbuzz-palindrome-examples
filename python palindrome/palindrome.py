@@ -2,7 +2,7 @@
 # Example palindrome program
 #
 # Run from command line with 1 argument ->
-# python ./nazgul.py pal.txt
+# python ./palindrome.py pal.txt
 #-
 
 import sys
